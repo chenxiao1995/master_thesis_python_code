@@ -1,0 +1,1 @@
+python example.py --datasets VOC --cls_list_file /Volumes/xiao_ssd/20200813_testdaten/a_zone/a_zone1/obj.names --img_type '*.png' --img_path /Volumes/xiao_ssd/20200813_testdaten/f_regenshirm/f1_image/ --label /Volumes/xiao_ssd/20200813_testdaten/f_regenshirm/f1_label/ --convert_output /Volumes/xiao_ssd/20200813_testdaten/f_regenshirm/f1_yolo/
